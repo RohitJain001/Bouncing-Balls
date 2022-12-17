@@ -1,5 +1,8 @@
 # Title: Bouncing-Balls Game
-## 1. Methodology:
+## 1. Description:
+Bouncing balls is a game developed using pure javascript. A simple UI for playing the game is also developed using HTML and CSS. Methodology and features are described below and can be played on live link provided below. Happy Playing! 
+
+## 2. Methodology:
 The Game features are as follows:
 - Intitally 25 balls are randomly generated of different colours.
 - Shadow like effect is made for each of the ball which is made of random length in particular range using random function.
@@ -13,9 +16,6 @@ The Game features are as follows:
 3) D: right
 4) S: down
 - Whenever all the balls are eaten up, game is finished.
-
-## 2. Description:
-Bouncing balls is a game developed using pure javascript. A simple UI for playing the game is also developed using HTML and CSS. 
 
 ## 3. Live Link:
 https://rohitjain001.github.io/Bouncing-Balls/
